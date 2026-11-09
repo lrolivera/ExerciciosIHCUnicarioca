@@ -1,0 +1,5 @@
+/* Largura máxima de 600px para o container do perfil.
+   O mx-auto (no HTML) centraliza na tela. */
+.container-perfil {
+  max-width: 600px;
+}

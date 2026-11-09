@@ -1,0 +1,5 @@
+/* O Bootstrap 5 não tem a classe .text-justify,
+   então criamos a nossa para justificar o texto. */
+.texto-justificado {
+  text-align: justify;
+}

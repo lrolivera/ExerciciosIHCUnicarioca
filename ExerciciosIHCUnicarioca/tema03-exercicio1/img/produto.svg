@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <rect width="500" height="300" fill="#cfe2ff"/>
+  <rect x="150" y="70" width="200" height="160" rx="16" fill="#0d6efd"/>
+  <text x="250" y="160" font-family="Arial" font-size="32" fill="#fff" text-anchor="middle">XPTO</text>
+  <text x="250" y="195" font-family="Arial" font-size="16" fill="#fff" text-anchor="middle">Imagem do produto</text>
+</svg>
